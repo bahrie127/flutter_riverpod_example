@@ -13,7 +13,7 @@ https://youtu.be/2CDfeHKq0zA
 
 | Home        | Transaction Detail    |
 |--------------|-----------|
-| <img src="img1.png" width="300"/> | <img src="im2.png" width="300"/>      |
+| <img src="img1.png" width="300"/> | <img src="img2.png" width="300"/>      |
 
 
 
